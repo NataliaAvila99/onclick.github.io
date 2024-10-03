@@ -1,0 +1,140 @@
+body {
+    margin: auto;
+}
+
+.buscador {
+    height: 100px;
+    width: 1700px;
+    margin-left: 110px;
+    display: flex;
+    position: relative;
+    background-color: rgb(190, 190, 190);
+}
+
+.buscador h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.buscador input {
+    height: 25px;
+    width: 800px;
+    margin-top: 37px;
+    margin-left: 280px;
+}
+
+.buscador button {
+    margin: 30px 0px 30px 315px;
+    background-color: dodgerblue;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+}
+
+.container h1 {    
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+.container li{
+    height: 200px;
+    width: 1020px;
+    margin-top: 3px;
+    margin-left: 110px;
+    position: relative;
+    background-color: white;
+    border: 3px solid black;
+    list-style-type: none;
+}
+
+.container span {
+    margin-left: 20px;
+    position: relative;
+}
+
+
+.boton {
+    height: 35px;
+    width: 280px;
+    margin-top: 75px;
+    margin-left: 1170px;
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(39, 122, 67);
+    color: white;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+}
+
+.likes1 {
+    height: 30px;
+    width: 105px;
+    margin-top: 180px;
+    margin-left: 110px;
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(245, 237, 165);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+}
+
+.likes2 {
+    height: 30px;
+    width: 105px;
+    margin-top: 410px;
+    margin-left: 110px;
+    position: absolute;
+    z-index: 2;
+    background-color:rgb(245, 237, 165);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+}
+
+.container2 li{
+    height: 100px;
+    width: 650px;
+    transform: translate(0px,-377px);
+    margin-left: 1120px;
+    padding-left: 20px;
+    position: relative;
+    background-color: white;
+    border: 3px solid black;
+    list-style-type: none;
+
+}
+
+.parrafos {
+    margin-top: -380px;
+    margin-left: 120px;
+    position: relative;
+    z-index: 2;
+    font-family: sans-serif;
+    font-size: small;
+    padding-left: 10px;
+}
+
+.parrafos2 {
+    margin-top: 155px;
+    margin-left: 120px;
+    position: relative;
+    z-index: 2;
+    font-family: sans-serif;
+    font-size: small;
+    padding-left: 10px;
+}
+
+.container2 h1 {
+font-size: 15px;
+margin-left: auto;
+margin-top: 20px;
+font-weight: lighter;
+font-family: sans-serif;
+
+}
